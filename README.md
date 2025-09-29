@@ -35,11 +35,6 @@ JavaScript para la interactividad.
 
 Cómo visualizar el proyecto
 
-Clona este repositorio:
-
-git clone https://github.com/tuusuario/PaginaWebSaguaro.git
-
-
 Abre el archivo index.html en tu navegador.
 
 Estructura del repositorio
